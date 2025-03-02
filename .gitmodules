@@ -1,3 +1,6 @@
 [submodule "PiSA_SalesBehavior/Markov_chain_prediction_model"]
 	path = PiSA_SalesBehavior/Markov_chain_prediction_model
 	url = https://github.com/ClaudioGlez21/Markov_chain_prediction_model
+[submodule "PiSA_ParameterOptimisation/MA2003B_RETO"]
+	path = PiSA_ParameterOptimisation/MA2003B_RETO
+	url = https://github.com/melmramxs/MA2003B_RETO
