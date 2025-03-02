@@ -1,0 +1,3 @@
+[submodule "PiSA_SalesBehavior/Markov_chain_prediction_model"]
+	path = PiSA_SalesBehavior/Markov_chain_prediction_model
+	url = https://github.com/ClaudioGlez21/Markov_chain_prediction_model
