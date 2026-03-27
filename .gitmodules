@@ -4,3 +4,6 @@
 [submodule "PiSA_ParameterOptimisation/MA2003B_RETO"]
 	path = PiSA_ParameterOptimisation/MA2003B_RETO
 	url = https://github.com/melmramxs/MA2003B_RETO
+[submodule "Bradescard_DebtClassificator"]
+	path = Bradescard_DebtClassificator
+	url = https://github.com/santiagomora2/cobrasmart
