@@ -7,3 +7,6 @@
 [submodule "Bradescard_DebtClassificator"]
 	path = Bradescard_DebtClassificator
 	url = https://github.com/santiagomora2/cobrasmart
+[submodule "Bradescard_DebtClassification/CobraSmart"]
+	path = Bradescard_DebtClassification/CobraSmart
+	url = https://github.com/santiagomora2/cobrasmart.git
