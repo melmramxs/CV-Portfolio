@@ -13,3 +13,6 @@
 [submodule "AERSA_AnomalyDetectionSystem"]
 	path = AERSA_AnomalyDetectionSystem
 	url = https://github.com/itzeltgc/ERP-Anomalies-Detection
+[submodule "AERSA_AnomaliesDetectionSystem/AERSA_AnomalyDetectionSystem"]
+	path = AERSA_AnomaliesDetectionSystem/AERSA_AnomalyDetectionSystem
+	url = https://github.com/itzeltgc/ERP-Anomalies-Detection
