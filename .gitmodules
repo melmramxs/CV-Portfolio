@@ -10,3 +10,6 @@
 [submodule "Bradescard_DebtClassification/CobraSmart"]
 	path = Bradescard_DebtClassification/CobraSmart
 	url = https://github.com/santiagomora2/cobrasmart.git
+[submodule "AERSA_AnomalyDetectionSystem"]
+	path = AERSA_AnomalyDetectionSystem
+	url = https://github.com/itzeltgc/ERP-Anomalies-Detection
